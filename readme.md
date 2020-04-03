@@ -1,9 +1,9 @@
-//-- Project 1 - Randomly generated map using the Diamond Square algorithm --//
+# Randomly generated map using the Diamond Square algorithm - Unity Graphics project
 
 Kinsey Reeves
 
-
-
+#Run: 
+Import as a Unity project.
 
 
 My implementation follows the diamond square algorithm to create a randomly generated 
