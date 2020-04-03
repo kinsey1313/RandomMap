@@ -1,6 +1,6 @@
 //-- Project 1 - Randomly generated map using the Diamond Square algorithm --//
 
-Kinsey Reeves - 695705
+Kinsey Reeves
 
 
 
